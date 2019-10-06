@@ -1,6 +1,6 @@
 # Reinforcement Learning Resources
 Contains some useful online deep reinforcement learning (RL) resources. 
-These are just some of the resources that I stumbled across whle in search of a better understanding of the field.
+These are just some of the resources that I came across while in search of a better understanding of the field.
 
 ## YouTube Video Resources
 
