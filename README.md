@@ -18,15 +18,14 @@ It was presented in 2015, so is a bit dated. However still a great resource, par
 
 * https://www.youtube.com/playlist?list=PLiKt49B1p8AYKYIaPac80BFM4psk7ezk_
 
-## Awesome Blogs/Posts
+## Awesome Blogs/Online Docs
 
 #### Lilian Weng's blog
 
 This is a great blog by Lilian (a researcher @OpenAI) on primarly RL related topics.
 
 * https://lilianweng.github.io/lil-log/
-* Great post on [**Policy Gradient Methods**](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
-* Using `SuperDuper.fit` in [real life](http://karpathy.github.io/2019/04/25/recipe/)
+* Great post on [**Policy Gradient Algorithms**](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
 #### Andrej Kaparthy's blog
 
@@ -35,6 +34,15 @@ Wouldn't be deep learning without a link to Karpathy's posts. I think he has mov
 * http://karpathy.github.io/
 * https://medium.com/@karpathy
 * Great post on [**Deep RL**](http://karpathy.github.io/2016/05/31/rl/)
+* Using `SuperDuper.fit` in [real life](http://karpathy.github.io/2019/04/25/recipe/)
+
+#### Spinning Up
+
+It is an entire site that makes it easier to learn about deep reinforcement learning (deep RL), by OpenAI. Really useful if you would like to learn all the basics, without having to read several text books.
+
+* https://spinningup.openai.com/en/latest/user/introduction.html
+
+* [Good explanation of the *RL Problem*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html#the-rl-problem)
 
 ## Deep Learning Resources
 
@@ -56,3 +64,8 @@ Amazing Blog Post explaining LSTMs, really helps you understand where their most
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 
+## Python Packages
+
+* [Gym](https://gym.openai.com/), Used to setup your RL environment in which you will train the agent, by OpenAI.
+
+* (Stable-Baselines)[https://stable-baselines.readthedocs.io/en/master/guide/quickstart.html], a fork of baselines by OpenAI. Contains many *robust* implementations of RL Algorithms, and good documentation!
