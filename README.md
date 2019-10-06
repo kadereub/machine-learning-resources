@@ -68,4 +68,4 @@ Amazing Blog Post explaining LSTMs, really helps you understand where their most
 
 * [Gym](https://gym.openai.com/), Used to setup your RL environment in which you will train the agent, by OpenAI.
 
-* (Stable-Baselines)[https://stable-baselines.readthedocs.io/en/master/guide/quickstart.html], a fork of baselines by OpenAI. Contains many *robust* implementations of RL Algorithms, and good documentation!
+* [Stable-Baselines](https://stable-baselines.readthedocs.io/en/master/guide/quickstart.html), a fork of baselines by OpenAI. Contains many *robust* implementations of RL Algorithms, and good documentation!
