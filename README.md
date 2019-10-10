@@ -71,7 +71,7 @@ Amazing Blog Post explaining LSTMs, really helps you understand where their most
 
 ## Academic Papers
 
-* **Gordon Ritter:** Machine Learning for Trading, Dec 2017, [link].(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609)
+* **Gordon Ritter:** Machine Learning for Trading, Dec 2017, [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609).
 
 ## Python Packages
 
