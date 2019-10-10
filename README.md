@@ -44,6 +44,12 @@ It is an entire site that makes it easier to learn about deep reinforcement lear
 
 * [Good explanation of the *RL Problem*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html#the-rl-problem)
 
+#### Jonathon Hui's Medium Deep RL Series
+
+A nice comprehensive list of Deep RL resources and medium posts explaining various topics within RL. Really comprehensive and some good resources listed like the [UC Berkley bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures).
+
+* https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
+
 ## Deep Learning Resources
 
 #### Stanford CS231 materials
@@ -63,6 +69,9 @@ Amazing Blog Post explaining LSTMs, really helps you understand where their most
 
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+## Academic Papers
+
+* **Gordon Ritter:** Machine Learning for Trading, Dec 2017, [link].(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609)
 
 ## Python Packages
 
