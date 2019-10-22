@@ -69,6 +69,12 @@ Amazing Blog Post explaining LSTMs, really helps you understand where their most
 
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+### UC Berkeley Courses
+
+* Introduction to AI, older lectures, [link](http://ai.berkeley.edu/lecture_videos.html).
+
+* **Deep RL Course**, recently updated (2019), and has a nice resources page, [link](http://rail.eecs.berkeley.edu/deeprlcourse/).
+
 ## Academic Papers
 
 * **Gordon Ritter:** Machine Learning for Trading, Dec 2017, [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609).
