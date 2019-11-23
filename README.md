@@ -18,6 +18,12 @@ It was presented in 2015, so is a bit dated. However still a great resource, par
 
 * https://www.youtube.com/playlist?list=PLiKt49B1p8AYKYIaPac80BFM4psk7ezk_
 
+## The Book of RL
+
+This pretty much covers all the fundamentals needed to understand reinforcement learning. It is a good resource to use in conjunction with the above lectures.
+
+* Richard S. Sutton and Andrew G. Barto: *Introduction to Reinforcement Learning* , 2015, [link](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
 ## Awesome Blogs/Online Docs
 
 #### Lilian Weng's blog
