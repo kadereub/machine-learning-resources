@@ -62,10 +62,6 @@ A nice comprehensive list of Deep RL resources and medium posts explaining vario
 
 * **Deep RL Course**, recently updated (2019), and has a nice resources page, [link](http://rail.eecs.berkeley.edu/deeprlcourse/).
 
-## Academic Papers
-
-* **Gordon Ritter:** Machine Learning for Trading, Dec 2017, [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609).
-
 ## Python Packages
 
 * [Gym](https://gym.openai.com/), Used to setup your RL environment in which you will train the agent, by OpenAI.
